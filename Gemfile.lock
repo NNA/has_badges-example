@@ -1,6 +1,5 @@
-GIT
-  remote: https://github.com/NNA/has_badges
-  revision: 91b1f606f91e59d67807e6845f97f10f93025342
+PATH
+  remote: ../has_badges
   specs:
     has_badges (0.0.1)
       rails

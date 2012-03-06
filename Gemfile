@@ -37,4 +37,4 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
-gem 'has_badges', :git => 'https://github.com/NNA/has_badges'
+gem 'has_badges', :path => '../has_badges'
